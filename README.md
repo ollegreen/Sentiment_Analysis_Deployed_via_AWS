@@ -1,4 +1,4 @@
-# Sentiment_Analysis_model_deployment_using_AWS_Udacity_Project_1
+# Deploying a Sentiment Analysis Model through AWS
 
 
 ## End result: 
