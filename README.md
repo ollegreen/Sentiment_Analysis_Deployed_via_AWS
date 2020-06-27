@@ -5,7 +5,7 @@
 - A web app that you can insert a movie review and the algorithm will tell you if it was positive or negative, based on a Pytorch LSTM classifier model. 
 - The model was deployed using AWS SageMaker and could be used in production if it would be inteeresting.
 
-## Major insights from the project: 
+### Insights from the project: 
 - Hyperparameter tuning with AWS: Usually a pretty time consuiming process, but the gotta say that AWS had some great functionality in SageMaker to help automate this process so we can spend less time on it and in a real life business case could possibly reduce total cost. 
 - 
 
@@ -14,7 +14,7 @@
 The list below represents main libraries and its objects for the project.
 
 - Amazon SageMaker (Build, train, and deploy a model)
-- PyTorch (LSTM classifier)
+- PyTorch (LSTM classifier / Recurrent Neural Network)
 
 ### The steps to take:
 Step 1: Downloading the data
