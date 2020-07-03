@@ -6,8 +6,8 @@
 - The model was deployed using AWS SageMaker and could be used in production if it would be inteeresting.
 
 ### Insights from the project: 
-- Hyperparameter tuning with AWS: Usually a pretty time consuiming process, but the gotta say that AWS had some great functionality in SageMaker to help automate this process so we can spend less time on it and in a real life business case could possibly reduce total cost. 
-- 
+- Hyperparameter tuning with AWS: Commonly a pretty time consuiming process, but the gotta say that AWS had some great functionality in SageMaker to help automate this process so we can spend less time on it and in a real life business case could possibly reduce total cost. 
+
 
 ### Libraries used in the project
 
