@@ -1,4 +1,4 @@
-# Deploying a Sentiment Analysis Model through AWS
+# Deploying a Sentiment Analysis Model through AWS Sagemaker
 
 
 ## End result: 
