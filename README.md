@@ -3,7 +3,7 @@
 ## End result: 
 - A web app that you can insert a movie review and the algorithm will tell you if it was positive or negative, based on a Pytorch LSTM classifier model. 
 - The model was deployed using AWS SageMaker and could be used in production if it would be inteeresting.
-![Sentiment](/Users/Olle/Desktop/Screenshot 2020-07-07 at 20.59.52.png)
+![Sentiment](file:///Users/Olle/Desktop/Screenshot%202020-07-07%20at%2020.59.52.png)
 
 ### Insights from the project: 
 - Hyperparameter tuning with AWS: Commonly a pretty time consuiming process, but the gotta say that AWS had some great functionality in SageMaker to help automate this process so we can spend less time on it and in a real life business case could possibly reduce total cost. 
