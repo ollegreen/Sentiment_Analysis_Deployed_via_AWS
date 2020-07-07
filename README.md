@@ -2,6 +2,7 @@
 
 ## End result: 
 - A web app that you can insert a movie review and the algorithm will tell you if it was positive or negative, based on a Pytorch LSTM classifier model. 
+- Picture of the final result can be found in the repo as "final_result.png"
 - The model was deployed using AWS SageMaker and could be used in production if it would be inteeresting.
 ![Sentiment](https://miro.medium.com/max/860/1*Xj8-Jpi5TppZHA8dFRml6A.jpeg)
 
