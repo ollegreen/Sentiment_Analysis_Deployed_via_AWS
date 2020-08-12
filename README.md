@@ -1,10 +1,13 @@
 # Deploying a Sentiment Analysis Model through AWS Sagemaker
 
-## Result: 
+- *How incredible would it be if we were able to analyse if a text is positive or negative? Well, in this project we did just **that.***
+
+![Sentiment](https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/Online/Immagini/ArticleGallery/Economia/2020/01/Ritagli/7_Sentiment-Analysis-klCI--1020x533@IlSole24Ore-Web.jpg)
+
+## Results: 
 - A web app that you can insert a movie review and the algorithm will tell you if it was positive or negative, based on a Pytorch LSTM classifier model. 
-- **Picture of the final result can be found in the repo as "final_result.png"**
+- **Picture of the final result can be found in the repo as "final_result.png"**.
 - The model was deployed using AWS SageMaker and could be used in production if it would be inteeresting.
-![Sentiment](https://miro.medium.com/max/860/1*Xj8-Jpi5TppZHA8dFRml6A.jpeg)
 
 ### Insights from the project: 
 - Hyperparameter tuning with AWS: Commonly a pretty time consuiming process, but the gotta say that AWS had some great functionality in SageMaker to help automate this process so we can spend less time on it and in a real life business case could possibly reduce total cost. 
